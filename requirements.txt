@@ -6,6 +6,7 @@ ipywidgets==8.0.2
 matplotlib==3.3.4
 multitasking==0.0.10
 plotly==4.14.3
-sys
-sklearn
-os
+scikit-learn==0.24.2
+scipy==1.6.3
+seaborn==0.12.1
+setuptools==56.2.0
